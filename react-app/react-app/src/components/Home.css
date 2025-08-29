@@ -1,0 +1,39 @@
+.icons {
+  font-size: 30px;
+  height: 30px;
+  width: 30px;
+  color: #ddd;
+  cursor: pointer;
+}
+.icons:hover {
+  color: red;
+}
+.icon-con {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: 50%;
+  padding: 6px;
+  background-color: #fff;
+}
+.links {
+  text-decoration: none;
+  font-size: 24px;
+  color: #002f34;
+  font-weight: bold;
+}
+.price-text {
+  color: #002f34;
+}
+.clear-btn {
+  height: 25px;
+  background-color: #002f34;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 12px;
+  outline: none;
+  border: none;
+  padding: 0 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
